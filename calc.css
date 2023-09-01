@@ -1,0 +1,30 @@
+.main
+{
+    width: 100%;
+    height: 100%;
+
+}
+.calcu
+{
+    width: 400px;
+    height: 600px;
+    background: gray;
+    margin-left: 471px;
+    
+}
+#screen
+{
+    width: 82%;
+margin-left: 33px;
+height: 50px;
+margin-top: 20px;
+pointer-events: none
+}
+.btn
+{
+    width: 60px;
+height: 40px;
+margin-left: 31px;
+margin-top: 35px;
+background: burlywood;
+}
